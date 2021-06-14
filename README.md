@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GMDEEP
-- 👀 I’m interested in ...python, ai, bots
-- 🌱 I’m currently learning ...css, html, javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...python, ai, bots!
+- 🌱 I’m currently learning ...css, html, javascript!
+- 💞️ I’m looking to collaborate on ... stock trading bots!
 - 📫 How to reach me ...stewartjgreen@gmail.com
 
 <!---
