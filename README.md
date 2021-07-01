@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GMDEEP
+- 👋 Hi, I’m Stewart Green
 - 👀 I’m interested in ...python, ai, bots!
 - 🌱 I’m currently learning ...css, html, javascript!
 - 💞️ I’m looking to collaborate on ... stock trading bots!
