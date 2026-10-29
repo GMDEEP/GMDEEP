@@ -42,7 +42,7 @@ Published clawhub skills including [video-to-markdown](https://github.com/GMDEEP
 
 ## 📫 Contact
 
-- **Email:** stewartjgreen@gmail.com
+- **Email:** stewart@leadmachinellc.com
 - **Location:** Orlando, FL
 - **Open to:** Remote automation engineering, sales engineering, trading systems development, or any role where building > meetings
 
